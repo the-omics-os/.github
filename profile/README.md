@@ -28,29 +28,24 @@ We build the **data infrastructure layer** that sits between raw multi-omics exp
     <tr>
       <th align="left" width="200">Project</th>
       <th align="left">Description</th>
-      <th align="center" width="100">Status</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><a href="https://github.com/the-omics-os/lobster"><b>Lobster AI</b></a></td>
       <td>Open-source multi-agent bioinformatics engine — 22 specialist agents across 10 packages, orchestrated by LangGraph. Handles scRNA-seq, bulk RNA-seq, proteomics, genomics, metabolomics, and more via natural language.</td>
-      <td align="center"><img src="https://img.shields.io/badge/-public-2ea44f?style=flat-square" alt="public"></td>
     </tr>
     <tr>
-      <td><b>Omics-OS Cloud</b></td>
-      <td>Managed platform with LLM gateway, cloud compute, and team collaboration. Same Lobster engine, zero infrastructure to manage. Deploy on AWS with a single CDK stack.</td>
-      <td align="center"><img src="https://img.shields.io/badge/-private-6c757d?style=flat-square" alt="private"></td>
+      <td><a href="https://omics-os.com"><b>Omics-OS Cloud</b></a></td>
+      <td>Managed platform with LLM gateway, cloud compute, and team collaboration. Same Lobster engine, zero infrastructure to manage.</td>
     </tr>
     <tr>
-      <td><b>BioVault</b></td>
+      <td><a href="https://omics-os.com"><b>BioVault</b></a></td>
       <td>Decision-grade evidence cards for wet-lab scientists. Ask a biological question, get a structured answer backed by curated data — gene functions, disease associations, pathway context.</td>
-      <td align="center"><img src="https://img.shields.io/badge/-private-6c757d?style=flat-square" alt="private"></td>
     </tr>
     <tr>
-      <td><b>Omics-OS Docs</b></td>
-      <td>Full documentation — architecture, tutorials, API reference, case studies. 111 MDX pages powered by Fumadocs.</td>
-      <td align="center"><img src="https://img.shields.io/badge/-private-6c757d?style=flat-square" alt="private"></td>
+      <td><a href="https://docs.omics-os.com"><b>Omics-OS Docs</b></a></td>
+      <td>Full documentation — architecture, tutorials, API reference, and case studies.</td>
     </tr>
   </tbody>
 </table>
