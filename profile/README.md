@@ -39,11 +39,7 @@ We build the **data infrastructure layer** that sits between raw multi-omics exp
       <td><a href="https://omics-os.com"><b>Omics-OS Cloud</b></a></td>
       <td>Managed platform with LLM gateway, cloud compute, and team collaboration. Same Lobster engine, zero infrastructure to manage.</td>
     </tr>
-    <tr>
-      <td><a href="https://omics-os.com"><b>BioVault</b></a></td>
-      <td>Decision-grade evidence cards for wet-lab scientists. Ask a biological question, get a structured answer backed by curated data — gene functions, disease associations, pathway context.</td>
-    </tr>
-    <tr>
+<tr>
       <td><a href="https://docs.omics-os.com"><b>Omics-OS Docs</b></a></td>
       <td>Full documentation — architecture, tutorials, API reference, and case studies.</td>
     </tr>
