@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Omics-OS Banner" src="https://raw.githubusercontent.com/the-omics-os/lobster/main/docs/assets/banner.png" width="700">
+  <img alt="Omics-OS — Multi-Omics Data Infrastructure for Life Sciences" src="https://raw.githubusercontent.com/the-omics-os/.github/main/assets/banner.png" width="800">
 </div>
 
 <br/>
